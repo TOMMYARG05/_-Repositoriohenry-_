@@ -1,0 +1,38 @@
+body{background:black;
+color:rgba(199, 60, 60, 0.671);}
+
+.title{font-size: 20px;}
+
+#info{
+    border: 2px solid white;
+    width:65vw;
+    margin:auto;
+    padding:1em;
+}
+
+header{
+    border: 2px solid white;
+    margin:auto;
+    width: 60vw;
+    padding: 1em;
+
+}
+img{
+    width:25vw;
+    border-radius:20%;
+    height:15vw;
+}
+.cards{
+    border: 2px solid white;
+    width:fit-content;
+    padding:0px 1em 1em 1em;
+    border-radius:15%;
+    transition: 1s;
+}
+.cards:hover{
+    background-color:white;
+    color:black;
+}
+
+
+footer{padding:auto;}
