@@ -22,7 +22,7 @@ header{
     border: 2px solid white;
     margin:auto;
     width: 60vw;
-    padding: 1em;
+    padding: 2em;
     margin-top: 1,5em;
 
 }
@@ -63,7 +63,7 @@ background: white;
 color:black:}
 
 #cards-container{
-    background: orange;
+    background: black;
     margin:auto;
     margin-top: 1.5em;
     width:85vw;
